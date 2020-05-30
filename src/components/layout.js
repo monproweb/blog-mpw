@@ -59,7 +59,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Construit avec
+        © {new Date().getFullYear()} Mon Pro Web, Inc. Construit avec
         {` `}
         <a href="https://www.gatsbyjs.org">Gatsby</a>
       </footer>
