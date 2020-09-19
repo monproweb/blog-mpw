@@ -16,3 +16,5 @@ Oh, et voici une excellente citation de ce Wikipedia sur
 > à partir d'une seule base de code.
 
 ![Flutter](./Google-flutter-logo.png)
+
+Flutter et le logo associé sont des marques de Google LLC. Nous ne sommes ni approuvés ni affiliés à Google LLC.
